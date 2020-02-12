@@ -9,8 +9,6 @@
 
 This project is part of Udacity's Data Science Nanodegree. In this project, Convolutional Neural Networks (CNN) is used to dog breed classifier. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-![Sample Output][image1]
-
 
 ## Usage
 
